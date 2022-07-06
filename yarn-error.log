@@ -1,0 +1,36 @@
+Arguments: 
+  F:\nodejs\node.exe C:\Users\SNEHASISH\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;F:\nodejs\;C:\Python27\;C:\Python27\Scripts;F:\Scripts\;F:\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\MinGw\\bin;F:\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\OpenJDK\openjdk-8u272-b10\bin;D:\MATLAB\_Getintopc.com_MathWorks_MATLAB_R2021a_v9.10.0.1602886\Installation\runtime\win64;D:\MATLAB\_Getintopc.com_MathWorks_MATLAB_R2021a_v9.10.0.1602886\Installation\bin;D:\MATLAB\_Getintopc.com_MathWorks_MATLAB_R2021a_v9.10.0.1602886\Installation\polyspace\bin;C:\Users\SNEHASISH\AppData\Local\Android\Sdk\platform-tools;C:\Users\SNEHASISH\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\SNEHASISH\AppData\Local\Programs\Python\Python38-32\;C:\Users\SNEHASISH\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;F:\C++\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Users\SNEHASISH\AppData\Roaming\npm;F:\6th Sem\IC Design Lab\Files\modelsim_ase\win32aloem;C:\Users\SNEHASISH\AppData\Local\atom\bin;C:\Users\SNEHASISH\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  15.1.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\SNEHASISH\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137150:13)
+      at Interface.emit (node:events:327:20)
+      at Interface._ttyWrite (node:readline:875:16)
+      at ReadStream.onkeypress (node:readline:213:10)
+      at ReadStream.emit (node:events:327:20)
+      at emitKeys (node:internal/readline/utils:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:readline:1144:36)
+      at ReadStream.emit (node:events:327:20)
+      at addChunk (node:internal/streams/readable:304:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
